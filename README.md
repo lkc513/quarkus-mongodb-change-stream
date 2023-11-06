@@ -1,4 +1,4 @@
-# quarkus-hello-world Project
+# POC Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
@@ -52,5 +52,12 @@ If you want to learn more about building native executables, please consult http
 ### RESTEasy JAX-RS
 
 Easily start your RESTful Web Services
+
+### Reference 
+
+https://www.mongodb.com/docs/drivers/java/sync/current/usage-examples/watch/
+
+https://adelachao.medium.com/create-a-mongodb-replica-set-in-windows-edeab1c85894
+
 
 [Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)

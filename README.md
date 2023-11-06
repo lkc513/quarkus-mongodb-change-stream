@@ -59,5 +59,6 @@ https://www.mongodb.com/docs/drivers/java/sync/current/usage-examples/watch/
 
 https://adelachao.medium.com/create-a-mongodb-replica-set-in-windows-edeab1c85894
 
+https://www.mongodb.com/docs/manual/changeStreams/
 
 [Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
